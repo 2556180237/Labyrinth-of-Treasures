@@ -25,8 +25,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
-cd практикум
+git clone https://github.com/2556180237/Labyrinth-of-Treasures
+cd Labyrinth-of-Treasures
 ```
 
 2. Создайте виртуальное окружение (рекомендуется):
